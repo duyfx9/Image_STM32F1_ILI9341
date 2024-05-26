@@ -1,0 +1,4 @@
+../Core/Src/display.c:6:6:Display_Round_Icon_40x40	56	static
+../Core/Src/display.c:22:6:Display_Square_Icon_40x40	48	static
+../Core/Src/display.c:38:6:Display_Picture	32	static
+../Core/Src/display.c:57:6:Display_Color_Picture	24	static

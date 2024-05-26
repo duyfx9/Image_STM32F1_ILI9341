@@ -1,0 +1,4 @@
+../Core/Src/display.c:6:6:Display_Round_Icon_40x40	3
+../Core/Src/display.c:22:6:Display_Square_Icon_40x40	3
+../Core/Src/display.c:38:6:Display_Picture	3
+../Core/Src/display.c:57:6:Display_Color_Picture	3
